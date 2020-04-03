@@ -77,7 +77,6 @@ int main()
 		}
 	}
 
-
 	//变换后的四点坐标
 	cv::Point2f pts2[] = {
 						cv::Point2f(0,0),
